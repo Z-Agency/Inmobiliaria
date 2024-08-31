@@ -10,8 +10,9 @@ const Hero = () => {
                 <Image className='relative h-[95vh] object-cover z-0 bg-cover' src={Herobg} alt="" />
                 <div className='absolute max-w-[1440px] inset-0 flex flex-col items-center md:items-start justify-center mx-auto z-2'>
                     <h1 className='text-white text-2xl md:text-4xl font-semibold'>Crece tu Negocio Inmobiliario</h1>
-                    <h1 className='text-white text-2xl md:text-4xl font-semibold mt-[10px] mb-[150px]'>Con Nosotros</h1>
-                    <h2></h2>
+                    <h1 className='text-white text-2xl md:text-4xl font-semibold mt-[10px]'>Con Nosotros</h1>
+                    <h2 className='text-white text-lg md:text-xl font-base '>lorem ipsuimdasdasda</h2>
+                    <button className='mb-[150px] mt-[10px]'>Conocenos</button>
                 </div>
             </div>
 
