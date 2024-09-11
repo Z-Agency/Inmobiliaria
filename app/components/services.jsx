@@ -14,10 +14,7 @@ const Services = () => {
             <Image className='max-h-[250px] rounded-t-[16px] object-cover' src={Test} alt="" />
             <h3 className='text-left px-4 text-orange-500 text-2xl font-bold mt-[20px]'>Marketing Digital</h3>
             <p className='text-left text-base font-light px-4'>
-                Norem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Etiam eu turpis molestie, dictum est a, mattis tellus. 
-                Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, 
-                ut interdum tellus elit sed risus.
+            Nos encargamos de la gestión completa de tus redes sociales, asegurando una presencia activa y consistente en plataformas clave como Facebook, Instagram, LinkedIn, y más. 
             </p>
         </div>
 
@@ -26,10 +23,7 @@ const Services = () => {
             <Image className='max-h-[250px] rounded-t-[16px] object-cover' src={Test} alt="" />
             <h3 className='text-left px-4 text-orange-500 text-2xl font-bold mt-[20px]'>Desarrollo Web</h3>
             <p className='text-left text-base font-light px-4'>
-                Norem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Etiam eu turpis molestie, dictum est a, mattis tellus. 
-                Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, 
-                ut interdum tellus elit sed risus.
+            Creamos landing pages con un diseño atractivo que capturan la atención y convierten visitantes en clientes potenciales.
             </p>
         </div>
 
@@ -38,10 +32,7 @@ const Services = () => {
             <Image className='max-h-[250px] rounded-t-[16px] object-cover' src={Test} alt="" />
             <h3 className='text-left px-4 text-orange-500 text-2xl font-bold mt-[20px]'>Paid Ads</h3>
             <p className='text-left text-base font-light px-4'>
-                Norem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Etiam eu turpis molestie, dictum est a, mattis tellus. 
-                Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, 
-                ut interdum tellus elit sed risus.
+            Utilizamos análisis avanzados y pruebas A/B para asegurar que cada inversión publicitaria genere el máximo retorno.
             </p>
         </div>
     </div>
