@@ -35,16 +35,16 @@ function Navbar() {
        className={`w-full justify-end lg:flex  lg:items-center lg:max-w-[1440px] ${isOpen ? "block" : "hidden"}`}
      >
        <div className="text-sm mr-[100px]">
-         <Link href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white text-lg font-semibold mr-8">
+         <Link href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white text-lg font-semibold mr-8 hover:text-orange-500">
            Home
          </Link>
-         <Link href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white text-lg font-normal mr-8">
+         <Link href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white text-lg font-normal mr-8 hover:text-orange-500">
            Nosotros
          </Link>
-         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white text-lg font-normal mr-8">
+         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white text-lg font-normal mr-8 hover:text-orange-500">
            Services
          </a>
-         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white text-lg font-normal mr-8 ">
+         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white text-lg font-normal mr-8 hover:text-orange-500">
            Contacto
          </a>
        </div>
